@@ -1,0 +1,11 @@
+body {
+    background-color: thistle;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: larger;
+    color: slateblue;
+    font-weight: bolder;
+    font-size: 36px;
+}
