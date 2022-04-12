@@ -1,1 +1,1 @@
-# javascript-git
+# javascrip.git
